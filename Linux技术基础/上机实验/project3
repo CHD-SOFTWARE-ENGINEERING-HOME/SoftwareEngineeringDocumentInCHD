@@ -1,0 +1,5 @@
+2021902228 严晏来
+(1)tar -czvf ~/etc.tar.gz /etc
+(2)who | cut -d ' ' -f 1 |sort|uniq
+(3)cat contact.info | grep -n E-mail >>contact.email
+   cat contact.info | grep -n Web >>contact.url

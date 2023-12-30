@@ -1,0 +1,9 @@
+2021902228 严晏来
+(1)
+ifconfig -a
+lspci | grep -i ethernet
+lspci | grep Network
+(2)
+ifconfig | grep -o -E '([[:xdigit:]]{1,2}:){5}[[:xdigit:]]{1,2}'
+b0:83:fe:55:32:e5
+(3)ss -an | awk '/tcp/{s[$5]++} END{for (i in s) print i,s[i]}' | sort -k2n | uniq

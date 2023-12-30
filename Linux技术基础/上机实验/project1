@@ -1,0 +1,11 @@
+2021902228 严晏来
+(1)cd ~
+   pwd
+(2)date -d -30day +%Y-%m-%d
+(3)uname -a
+(4)help printf
+(5)grep -n -r "BTOWC" /usr/include *.h
+(6)sort -t ':' -k 1 /etc/passwd | cut -d: -f 3-5
+(7)mkdir ~/mydir
+   cp -r /home/linuxsmb/lab/net/* mydir
+   find mydir -name "*.h" | sed 's/.h$//' | xargs -I {} mv {}.h {}.html
