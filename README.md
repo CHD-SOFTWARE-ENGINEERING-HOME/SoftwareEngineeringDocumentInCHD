@@ -26,7 +26,7 @@
 
 如果有任何问题或建议，欢迎联系仓库创始人：
 
-- 创始人：严晏来
+- 联系人：严晏来
 - 联系方式：+8613873188531
 ![3a0d63506c18969ae441186e63cfe6d](https://github.com/CHD-SOFTWARE-ENGINEERING-HOME/SoftwareEngineeringDocumentInCHD/assets/110188868/e4138d50-f5ea-4c64-9771-7ef20b626850)
 
